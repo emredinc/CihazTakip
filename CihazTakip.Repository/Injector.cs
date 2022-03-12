@@ -7,7 +7,7 @@ namespace CihazTakip.Repository
     {
         public static IServiceCollection AddRepository(this IServiceCollection services)
         {
-            services.AddPersistence();
+            services.AddPersistence();//deneme
             return services;
         }
     }
