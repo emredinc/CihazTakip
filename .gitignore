@@ -394,6 +394,7 @@ FodyWeavers.xsd
 .history/
 **/Debug/*
 .AssemblyReference.Cache
+*.AssemblyReference.Cache
 # Windows Installer files from build outputs
 *.cab
 *.msi
