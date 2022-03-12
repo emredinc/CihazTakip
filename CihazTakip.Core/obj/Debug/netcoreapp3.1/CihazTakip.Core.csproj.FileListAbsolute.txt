@@ -7,3 +7,4 @@ C:\Users\emre.dinc\Desktop\CihazTakip\CihazTakip.Core\obj\Debug\netcoreapp3.1\Ci
 C:\Users\emre.dinc\Desktop\CihazTakip\CihazTakip.Core\obj\Debug\netcoreapp3.1\CihazTakip.Core.pdb
 C:\Users\emre.dinc\Desktop\CihazTakip\CihazTakip.Core\obj\Debug\netcoreapp3.1\CihazTakip.Core.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\emre.dinc\Desktop\CihazTakip\CihazTakip.Core\obj\Debug\netcoreapp3.1\CihazTakip.Core.csproj.CoreCompileInputs.cache
+C:\Users\emre.dinc\Desktop\CihazTakip\CihazTakip.Core\obj\Debug\netcoreapp3.1\CihazTakip.Core.csproj.AssemblyReference.cache

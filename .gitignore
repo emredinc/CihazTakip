@@ -181,6 +181,9 @@ DocProject/Help/*.hhp
 DocProject/Help/Html2
 DocProject/Help/html
 
+
+/Debug
+
 # Click-Once directory
 publish/
 
@@ -397,7 +400,6 @@ FodyWeavers.xsd
 *.msm
 *.msp
 *.cache
-*.txt
 *.suo
 *.editorconfig
 # JetBrains Rider
