@@ -1,6 +1,5 @@
 C:\Users\emre.dinc\Desktop\CihazTakip\CihazTakip.Persistence\bin\Debug\netcoreapp3.1\CihazTakip.Persistence.deps.json
 C:\Users\emre.dinc\Desktop\CihazTakip\CihazTakip.Persistence\bin\Debug\netcoreapp3.1\CihazTakip.Persistence.dll
-C:\Users\emre.dinc\Desktop\CihazTakip\CihazTakip.Persistence\obj\Debug\netcoreapp3.1\CihazTakip.Persistence.csprojAssemblyReference.cache
 C:\Users\emre.dinc\Desktop\CihazTakip\CihazTakip.Persistence\obj\Debug\netcoreapp3.1\CihazTakip.Persistence.AssemblyInfoInputs.cache
 C:\Users\emre.dinc\Desktop\CihazTakip\CihazTakip.Persistence\obj\Debug\netcoreapp3.1\CihazTakip.Persistence.AssemblyInfo.cs
 C:\Users\emre.dinc\Desktop\CihazTakip\CihazTakip.Persistence\bin\Debug\netcoreapp3.1\CihazTakip.Core.dll
@@ -12,3 +11,6 @@ C:\Users\emre.dinc\Desktop\CihazTakip\CihazTakip.Persistence\obj\Debug\netcoreap
 C:\Users\emre.dinc\Desktop\CihazTakip\CihazTakip.Persistence\obj\Debug\netcoreapp3.1\CihazTakip.Persistence.dll
 C:\Users\emre.dinc\Desktop\CihazTakip\CihazTakip.Persistence\obj\Debug\netcoreapp3.1\CihazTakip.Persistence.pdb
 C:\Users\emre.dinc\Desktop\CihazTakip\CihazTakip.Persistence\obj\Debug\netcoreapp3.1\CihazTakip.Persistence.genruntimeconfig.cache
+C:\Users\emre.dinc\Desktop\CihazTakip\CihazTakip.Persistence\obj\Debug\netcoreapp3.1\CihazTakip.Persistence.csproj.AssemblyReference.cache
+C:\Users\emre.dinc\Desktop\CihazTakip\CihazTakip.Persistence\obj\Debug\netcoreapp3.1\CihazTakip.Persistence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\emre.dinc\Desktop\CihazTakip\CihazTakip.Persistence\obj\Debug\netcoreapp3.1\CihazTakip.Persistence.csproj.CoreCompileInputs.cache

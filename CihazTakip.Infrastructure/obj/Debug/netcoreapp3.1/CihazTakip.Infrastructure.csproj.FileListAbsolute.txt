@@ -9,9 +9,11 @@ C:\Users\emre.dinc\Desktop\CihazTakip\CihazTakip.Infrastructure\bin\Debug\netcor
 C:\Users\emre.dinc\Desktop\CihazTakip\CihazTakip.Infrastructure\bin\Debug\netcoreapp3.1\CihazTakip.Extension.pdb
 C:\Users\emre.dinc\Desktop\CihazTakip\CihazTakip.Infrastructure\bin\Debug\netcoreapp3.1\CihazTakip.Repository.pdb
 C:\Users\emre.dinc\Desktop\CihazTakip\CihazTakip.Infrastructure\bin\Debug\netcoreapp3.1\CihazTakip.Persistence.pdb
-C:\Users\emre.dinc\Desktop\CihazTakip\CihazTakip.Infrastructure\obj\Debug\netcoreapp3.1\CihazTakip.Infrastructure.csprojAssemblyReference.cache
 C:\Users\emre.dinc\Desktop\CihazTakip\CihazTakip.Infrastructure\obj\Debug\netcoreapp3.1\CihazTakip.Infrastructure.AssemblyInfoInputs.cache
 C:\Users\emre.dinc\Desktop\CihazTakip\CihazTakip.Infrastructure\obj\Debug\netcoreapp3.1\CihazTakip.Infrastructure.AssemblyInfo.cs
 C:\Users\emre.dinc\Desktop\CihazTakip\CihazTakip.Infrastructure\obj\Debug\netcoreapp3.1\CihazTakip.Infrastructure.csproj.CopyComplete
 C:\Users\emre.dinc\Desktop\CihazTakip\CihazTakip.Infrastructure\obj\Debug\netcoreapp3.1\CihazTakip.Infrastructure.dll
 C:\Users\emre.dinc\Desktop\CihazTakip\CihazTakip.Infrastructure\obj\Debug\netcoreapp3.1\CihazTakip.Infrastructure.pdb
+C:\Users\emre.dinc\Desktop\CihazTakip\CihazTakip.Infrastructure\obj\Debug\netcoreapp3.1\CihazTakip.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\emre.dinc\Desktop\CihazTakip\CihazTakip.Infrastructure\obj\Debug\netcoreapp3.1\CihazTakip.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\emre.dinc\Desktop\CihazTakip\CihazTakip.Infrastructure\obj\Debug\netcoreapp3.1\CihazTakip.Infrastructure.csproj.CoreCompileInputs.cache

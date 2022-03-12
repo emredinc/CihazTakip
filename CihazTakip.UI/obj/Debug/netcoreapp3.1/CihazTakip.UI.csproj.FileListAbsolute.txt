@@ -1,6 +1,5 @@
 C:\Users\emre.dinc\Desktop\CihazTakip\CihazTakip.UI\bin\Debug\netcoreapp3.1\appsettings.Development.json
 C:\Users\emre.dinc\Desktop\CihazTakip\CihazTakip.UI\bin\Debug\netcoreapp3.1\appsettings.json
-C:\Users\emre.dinc\Desktop\CihazTakip\CihazTakip.UI\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
 C:\Users\emre.dinc\Desktop\CihazTakip\CihazTakip.UI\bin\Debug\netcoreapp3.1\CihazTakip.UI.exe
 C:\Users\emre.dinc\Desktop\CihazTakip\CihazTakip.UI\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
 C:\Users\emre.dinc\Desktop\CihazTakip\CihazTakip.UI\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
@@ -31,7 +30,6 @@ C:\Users\emre.dinc\Desktop\CihazTakip\CihazTakip.UI\bin\Debug\netcoreapp3.1\Ciha
 C:\Users\emre.dinc\Desktop\CihazTakip\CihazTakip.UI\bin\Debug\netcoreapp3.1\CihazTakip.Infrastructure.pdb
 C:\Users\emre.dinc\Desktop\CihazTakip\CihazTakip.UI\bin\Debug\netcoreapp3.1\CihazTakip.Persistence.pdb
 C:\Users\emre.dinc\Desktop\CihazTakip\CihazTakip.UI\bin\Debug\netcoreapp3.1\CihazTakip.Repository.pdb
-C:\Users\emre.dinc\Desktop\CihazTakip\CihazTakip.UI\obj\Debug\netcoreapp3.1\CihazTakip.UI.csprojAssemblyReference.cache
 C:\Users\emre.dinc\Desktop\CihazTakip\CihazTakip.UI\obj\Debug\netcoreapp3.1\CihazTakip.UI.AssemblyInfoInputs.cache
 C:\Users\emre.dinc\Desktop\CihazTakip\CihazTakip.UI\obj\Debug\netcoreapp3.1\CihazTakip.UI.AssemblyInfo.cs
 C:\Users\emre.dinc\Desktop\CihazTakip\CihazTakip.UI\obj\Debug\netcoreapp3.1\CihazTakip.UI.RazorAssemblyInfo.cache
@@ -64,3 +62,7 @@ C:\Users\emre.dinc\Desktop\CihazTakip\CihazTakip.UI\obj\Debug\netcoreapp3.1\Ciha
 C:\Users\emre.dinc\Desktop\CihazTakip\CihazTakip.UI\obj\Debug\netcoreapp3.1\CihazTakip.UI.dll
 C:\Users\emre.dinc\Desktop\CihazTakip\CihazTakip.UI\obj\Debug\netcoreapp3.1\CihazTakip.UI.pdb
 C:\Users\emre.dinc\Desktop\CihazTakip\CihazTakip.UI\obj\Debug\netcoreapp3.1\CihazTakip.UI.genruntimeconfig.cache
+C:\Users\emre.dinc\Desktop\CihazTakip\CihazTakip.UI\obj\Debug\netcoreapp3.1\CihazTakip.UI.csproj.AssemblyReference.cache
+C:\Users\emre.dinc\Desktop\CihazTakip\CihazTakip.UI\obj\Debug\netcoreapp3.1\CihazTakip.UI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\emre.dinc\Desktop\CihazTakip\CihazTakip.UI\obj\Debug\netcoreapp3.1\CihazTakip.UI.csproj.CoreCompileInputs.cache
+C:\Users\emre.dinc\Desktop\CihazTakip\CihazTakip.UI\obj\Debug\netcoreapp3.1\scopedcss\bundle\CihazTakip.UI.styles.css
