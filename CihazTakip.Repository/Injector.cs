@@ -8,6 +8,7 @@ namespace CihazTakip.Repository
         public static IServiceCollection AddRepository(this IServiceCollection services)
         {
             services.AddPersistence();
+            //örnek satır
             return services;
         }
     }
