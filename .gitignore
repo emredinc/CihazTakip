@@ -396,6 +396,9 @@ FodyWeavers.xsd
 *.msix
 *.msm
 *.msp
+*.cache
+*.txt
+*.suo
 *.editorconfig
 # JetBrains Rider
 *.sln.iml
