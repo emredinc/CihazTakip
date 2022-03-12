@@ -1,0 +1,8 @@
+C:\Users\emre.dinc\Desktop\CihazTakip\CihazTakip.Core\bin\Debug\netcoreapp3.1\CihazTakip.Core.deps.json
+C:\Users\emre.dinc\Desktop\CihazTakip\CihazTakip.Core\bin\Debug\netcoreapp3.1\CihazTakip.Core.dll
+C:\Users\emre.dinc\Desktop\CihazTakip\CihazTakip.Core\bin\Debug\netcoreapp3.1\CihazTakip.Core.pdb
+C:\Users\emre.dinc\Desktop\CihazTakip\CihazTakip.Core\obj\Debug\netcoreapp3.1\CihazTakip.Core.AssemblyInfoInputs.cache
+C:\Users\emre.dinc\Desktop\CihazTakip\CihazTakip.Core\obj\Debug\netcoreapp3.1\CihazTakip.Core.AssemblyInfo.cs
+C:\Users\emre.dinc\Desktop\CihazTakip\CihazTakip.Core\obj\Debug\netcoreapp3.1\CihazTakip.Core.dll
+C:\Users\emre.dinc\Desktop\CihazTakip\CihazTakip.Core\obj\Debug\netcoreapp3.1\CihazTakip.Core.pdb
+C:\Users\emre.dinc\Desktop\CihazTakip\CihazTakip.Core\obj\Debug\netcoreapp3.1\CihazTakip.Core.csprojAssemblyReference.cache

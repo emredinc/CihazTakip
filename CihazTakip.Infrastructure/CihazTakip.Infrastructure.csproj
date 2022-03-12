@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\CihazTakip.Core\CihazTakip.Core.csproj" />
+    <ProjectReference Include="..\CihazTakip.Extension\CihazTakip.Extension.csproj" />
+    <ProjectReference Include="..\CihazTakip.Repository\CihazTakip.Repository.csproj" />
+  </ItemGroup>
+
+</Project>

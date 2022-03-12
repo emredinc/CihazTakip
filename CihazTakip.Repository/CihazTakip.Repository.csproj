@@ -1,0 +1,20 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Design" Version="3.1.0">
+      <PrivateAssets>all</PrivateAssets>
+      <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+    </PackageReference>
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\CihazTakip.Core\CihazTakip.Core.csproj" />
+    <ProjectReference Include="..\CihazTakip.Extension\CihazTakip.Extension.csproj" />
+    <ProjectReference Include="..\CihazTakip.Persistence\CihazTakip.Persistence.csproj" />
+  </ItemGroup>
+
+</Project>

@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29409.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CihazTakip.Repository", "CihazTakip.Repository\CihazTakip.Repository.csproj", "{1F0E30B9-8B20-4C27-BD5F-CC1D8EE786AD}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CihazTakip.Persistence", "CihazTakip.Persistence\CihazTakip.Persistence.csproj", "{57640E28-02ED-422F-81DF-41DC6528940A}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CihazTakip.Infrastructure", "CihazTakip.Infrastructure\CihazTakip.Infrastructure.csproj", "{2EAF1B67-03FB-4501-92FF-DDA3F28B9C0E}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CihazTakip.Core", "CihazTakip.Core\CihazTakip.Core.csproj", "{0041EDEA-FB53-4E57-BA8E-91623B828B07}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CihazTakip.Extension", "CihazTakip.Extension\CihazTakip.Extension.csproj", "{C4865813-397A-458F-BCFF-05A4A188D3A2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CihazTakip.UI", "CihazTakip.UI\CihazTakip.UI.csproj", "{3E202ABA-C83C-4387-A344-AE51F11E9689}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1F0E30B9-8B20-4C27-BD5F-CC1D8EE786AD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1F0E30B9-8B20-4C27-BD5F-CC1D8EE786AD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1F0E30B9-8B20-4C27-BD5F-CC1D8EE786AD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1F0E30B9-8B20-4C27-BD5F-CC1D8EE786AD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{57640E28-02ED-422F-81DF-41DC6528940A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{57640E28-02ED-422F-81DF-41DC6528940A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{57640E28-02ED-422F-81DF-41DC6528940A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{57640E28-02ED-422F-81DF-41DC6528940A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2EAF1B67-03FB-4501-92FF-DDA3F28B9C0E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2EAF1B67-03FB-4501-92FF-DDA3F28B9C0E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2EAF1B67-03FB-4501-92FF-DDA3F28B9C0E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2EAF1B67-03FB-4501-92FF-DDA3F28B9C0E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0041EDEA-FB53-4E57-BA8E-91623B828B07}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0041EDEA-FB53-4E57-BA8E-91623B828B07}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0041EDEA-FB53-4E57-BA8E-91623B828B07}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0041EDEA-FB53-4E57-BA8E-91623B828B07}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C4865813-397A-458F-BCFF-05A4A188D3A2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C4865813-397A-458F-BCFF-05A4A188D3A2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C4865813-397A-458F-BCFF-05A4A188D3A2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C4865813-397A-458F-BCFF-05A4A188D3A2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3E202ABA-C83C-4387-A344-AE51F11E9689}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3E202ABA-C83C-4387-A344-AE51F11E9689}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3E202ABA-C83C-4387-A344-AE51F11E9689}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3E202ABA-C83C-4387-A344-AE51F11E9689}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FC07666D-70D8-44D3-8E54-4A70539E5933}
+	EndGlobalSection
+EndGlobal
